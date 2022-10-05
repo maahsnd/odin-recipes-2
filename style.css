@@ -1,0 +1,37 @@
+.odin-recipes {
+  font-family: Garamond, "Times New Roman", sans-       serif;
+  color: purple;
+  background-color: yellow;
+}
+
+.sea, .soba, .buff {
+  font-family: "Courier New", sans-serif;
+  font-size: 20px;
+}
+
+.sea {
+  color: darkgreen;
+  background-color: lightblue;
+}
+
+.soba {
+  color:palegoldenrod;
+  background-color: salmon;
+}
+
+.buff {
+  color: orangered;
+  background-color: palegoldenrod;
+}
+
+.home {
+  color: green;
+  font-family: "Courier New", sans-serif;
+  background-color: floralwhite;
+  font-weight: bold;
+}
+
+img {
+  height: 400px;
+  width: auto;
+}
